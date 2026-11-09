@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Оркестрация группой Docker контейнеров на примере Docker Compose» - Шичков Евгений
+# Домашнее задание к занятию «Практическое применение Docker» - Шичков Евгений
 
 **Ссылка на fork-репозиторий с проектом:** [https://github.com/Skript111/shvirtd-example-python](https://github.com/Skript111/shvirtd-example-python)
 
